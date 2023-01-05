@@ -1,6 +1,6 @@
 {
   "name": "typescript-starter-project",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "barebones project for starting a Typescript/Node project",
   "main": "index.ts",
   "author": "Rob Seaver <rob.seaver@gmail.com>",
